@@ -36,7 +36,7 @@ python otimizador_upskill.py
 
 ## Estruturas e Algoritmos Utilizados
 
-##Conforme solicitado nos requisitos da disciplina, a solução implementa as seguintes estruturas:
+## Conforme solicitado nos requisitos da disciplina, a solução implementa as seguintes estruturas:
 
 ### 1. Estrutura de Ordenação (Merge Sort)
 Implementamos o algoritmo Merge Sort (def merge_sort) para ordenar o DataFrame de cursos.
